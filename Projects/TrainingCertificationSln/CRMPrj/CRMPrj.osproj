@@ -84,6 +84,10 @@
       <Private>False</Private>
       <HintPath>$(PEGA_STUDIO_PATH)\OpenSpan.ApplicationFramework.dll</HintPath>
     </Reference>
+    <Reference Include="OpenSpan.OCR">
+      <Private>False</Private>
+      <HintPath>$(PEGA_STUDIO_PATH)\OpenSpan.OCR.dll</HintPath>
+    </Reference>
     <Reference Include="System">
       <Private>False</Private>
     </Reference>
@@ -123,6 +127,10 @@
     <Compile Include="ACMESearch.os">
       <SubType>Component</SubType>
       <Id>WebAdapter-8D8DE2BB139348E</Id>
+    </Compile>
+    <Compile Include="CRM.os">
+      <SubType>Component</SubType>
+      <Id>WindowsAdapter-8D8DE4E1E3E9FCE</Id>
     </Compile>
   </ItemGroup>
 </Project>
