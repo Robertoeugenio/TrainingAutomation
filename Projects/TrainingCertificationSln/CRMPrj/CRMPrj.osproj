@@ -68,6 +68,9 @@
   </PropertyGroup>
   <Import Project="$(OpenSpanPath)\OpenSpan.targets" />
   <ItemGroup>
+    <Reference Include="Microsoft.CSharp">
+      <Private>False</Private>
+    </Reference>
     <Reference Include="OpenSpan.Adapters">
       <Private>False</Private>
       <HintPath>$(PEGA_STUDIO_PATH)\OpenSpan.Adapters.dll</HintPath>
@@ -103,6 +106,10 @@
     <Reference Include="OpenSpan.ApplicationFramework">
       <Private>False</Private>
       <HintPath>$(PEGA_STUDIO_PATH)\OpenSpan.ApplicationFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenSpan.ExpressTranslators, Version=19.1.0.0, Culture=neutral, PublicKeyToken=f5db91edc02d8c5e">
+      <HintPath>$(PEGA_STUDIO_PATH)\OpenSpan.ExpressTranslators.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="OpenSpan.OCR">
       <Private>False</Private>
@@ -189,6 +196,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="Extensions\" />
     <Folder Include="Properties\" />
     <Folder Include="Public Automations" />
   </ItemGroup>
@@ -205,5 +213,16 @@
       <SubType>Component</SubType>
       <Id>WindowsAdapter-8D8DFE68142AF1E</Id>
     </Compile>
+    <Compile Include="Extensions\TextBox1.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="CRM.res">
+      <DependentUpon>CRM.os</DependentUpon>
+      <Deployment>DoNotDeploy</Deployment>
+    </Content>
+    <Content Include="Extensions\TextBox1.design.json">
+      <DependentUpon>Extensions\TextBox1.cs</DependentUpon>
+      <Deployment>DoNotDeploy</Deployment>
+    </Content>
   </ItemGroup>
 </Project>

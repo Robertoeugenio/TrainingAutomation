@@ -1,0 +1,5231 @@
+{
+  "$type": "OpenSpan.ExpressTranslators.ExtensionDesignMetadata, OpenSpan.ExpressTranslators",
+  "DiscoverableType": {
+    "$type": "OpenSpan.CrossPlatform.Prototoypes.TypePrototypeSlim, OpenSpan",
+    "Name": "System.Windows.Forms.TextBox, System.Windows.Forms",
+    "BaseName": "System.Windows.Forms.TextBoxBase, System.Windows.Forms",
+    "Class": true,
+    "Enum": false,
+    "Struct": false,
+    "Interface": false,
+    "Array": false,
+    "Abstract": false,
+    "Generic": false,
+    "Properties": [
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "bool",
+        "Read": true,
+        "Write": true,
+        "Simple": true,
+        "Indexer": false,
+        "Name": "AcceptsReturn",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "System.Windows.Forms.AutoCompleteMode, System.Windows.Forms",
+        "Read": true,
+        "Write": true,
+        "Simple": true,
+        "Indexer": false,
+        "Name": "AutoCompleteMode",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "System.Windows.Forms.AutoCompleteSource, System.Windows.Forms",
+        "Read": true,
+        "Write": true,
+        "Simple": true,
+        "Indexer": false,
+        "Name": "AutoCompleteSource",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "System.Windows.Forms.AutoCompleteStringCollection, System.Windows.Forms",
+        "Read": true,
+        "Write": true,
+        "Simple": false,
+        "Indexer": false,
+        "Name": "AutoCompleteCustomSource",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "System.Windows.Forms.CharacterCasing, System.Windows.Forms",
+        "Read": true,
+        "Write": true,
+        "Simple": true,
+        "Indexer": false,
+        "Name": "CharacterCasing",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "bool",
+        "Read": true,
+        "Write": true,
+        "Simple": true,
+        "Indexer": false,
+        "Name": "Multiline",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "char",
+        "Read": true,
+        "Write": true,
+        "Simple": true,
+        "Indexer": false,
+        "Name": "PasswordChar",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "System.Windows.Forms.ScrollBars, System.Windows.Forms",
+        "Read": true,
+        "Write": true,
+        "Simple": true,
+        "Indexer": false,
+        "Name": "ScrollBars",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "string",
+        "Read": true,
+        "Write": true,
+        "Simple": true,
+        "Indexer": false,
+        "Name": "Text",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "System.Windows.Forms.HorizontalAlignment, System.Windows.Forms",
+        "Read": true,
+        "Write": true,
+        "Simple": true,
+        "Indexer": false,
+        "Name": "TextAlign",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "bool",
+        "Read": true,
+        "Write": true,
+        "Simple": true,
+        "Indexer": false,
+        "Name": "UseSystemPasswordChar",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "bool",
+        "Read": true,
+        "Write": true,
+        "Simple": true,
+        "Indexer": false,
+        "Name": "AcceptsTab",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "bool",
+        "Read": true,
+        "Write": true,
+        "Simple": true,
+        "Indexer": false,
+        "Name": "ShortcutsEnabled",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "bool",
+        "Read": true,
+        "Write": true,
+        "Simple": true,
+        "Indexer": false,
+        "Name": "AutoSize",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "System.Drawing.Color, System.Drawing",
+        "Read": true,
+        "Write": true,
+        "Simple": false,
+        "Indexer": false,
+        "Name": "BackColor",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "System.Drawing.Image, System.Drawing",
+        "Read": true,
+        "Write": true,
+        "Simple": false,
+        "Indexer": false,
+        "Name": "BackgroundImage",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "System.Windows.Forms.ImageLayout, System.Windows.Forms",
+        "Read": true,
+        "Write": true,
+        "Simple": true,
+        "Indexer": false,
+        "Name": "BackgroundImageLayout",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "System.Windows.Forms.BorderStyle, System.Windows.Forms",
+        "Read": true,
+        "Write": true,
+        "Simple": true,
+        "Indexer": false,
+        "Name": "BorderStyle",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "bool",
+        "Read": true,
+        "Write": false,
+        "Simple": true,
+        "Indexer": false,
+        "Name": "CanUndo",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "System.Drawing.Color, System.Drawing",
+        "Read": true,
+        "Write": true,
+        "Simple": false,
+        "Indexer": false,
+        "Name": "ForeColor",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "bool",
+        "Read": true,
+        "Write": true,
+        "Simple": true,
+        "Indexer": false,
+        "Name": "HideSelection",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "string[]",
+        "Read": true,
+        "Write": true,
+        "Simple": false,
+        "Indexer": false,
+        "Name": "Lines",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "int",
+        "Read": true,
+        "Write": true,
+        "Simple": true,
+        "Indexer": false,
+        "Name": "MaxLength",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "bool",
+        "Read": true,
+        "Write": true,
+        "Simple": true,
+        "Indexer": false,
+        "Name": "Modified",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "System.Windows.Forms.Padding, System.Windows.Forms",
+        "Read": true,
+        "Write": true,
+        "Simple": false,
+        "Indexer": false,
+        "Name": "Padding",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "int",
+        "Read": true,
+        "Write": false,
+        "Simple": true,
+        "Indexer": false,
+        "Name": "PreferredHeight",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "bool",
+        "Read": true,
+        "Write": true,
+        "Simple": true,
+        "Indexer": false,
+        "Name": "ReadOnly",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "string",
+        "Read": true,
+        "Write": true,
+        "Simple": true,
+        "Indexer": false,
+        "Name": "SelectedText",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "int",
+        "Read": true,
+        "Write": true,
+        "Simple": true,
+        "Indexer": false,
+        "Name": "SelectionLength",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "int",
+        "Read": true,
+        "Write": true,
+        "Simple": true,
+        "Indexer": false,
+        "Name": "SelectionStart",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "int",
+        "Read": true,
+        "Write": false,
+        "Simple": true,
+        "Indexer": false,
+        "Name": "TextLength",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "bool",
+        "Read": true,
+        "Write": true,
+        "Simple": true,
+        "Indexer": false,
+        "Name": "WordWrap",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "System.Windows.Forms.AccessibleObject, System.Windows.Forms",
+        "Read": true,
+        "Write": false,
+        "Simple": false,
+        "Indexer": false,
+        "Name": "AccessibilityObject",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "string",
+        "Read": true,
+        "Write": true,
+        "Simple": true,
+        "Indexer": false,
+        "Name": "AccessibleDefaultActionDescription",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "string",
+        "Read": true,
+        "Write": true,
+        "Simple": true,
+        "Indexer": false,
+        "Name": "AccessibleDescription",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "string",
+        "Read": true,
+        "Write": true,
+        "Simple": true,
+        "Indexer": false,
+        "Name": "AccessibleName",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "System.Windows.Forms.AccessibleRole, System.Windows.Forms",
+        "Read": true,
+        "Write": true,
+        "Simple": true,
+        "Indexer": false,
+        "Name": "AccessibleRole",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "bool",
+        "Read": true,
+        "Write": true,
+        "Simple": true,
+        "Indexer": false,
+        "Name": "AllowDrop",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "System.Windows.Forms.AnchorStyles, System.Windows.Forms",
+        "Read": true,
+        "Write": true,
+        "Simple": true,
+        "Indexer": false,
+        "Name": "Anchor",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "System.Drawing.Point, System.Drawing",
+        "Read": true,
+        "Write": true,
+        "Simple": false,
+        "Indexer": false,
+        "Name": "AutoScrollOffset",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "System.Windows.Forms.Layout.LayoutEngine, System.Windows.Forms",
+        "Read": true,
+        "Write": false,
+        "Simple": false,
+        "Indexer": false,
+        "Name": "LayoutEngine",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "System.Windows.Forms.BindingContext, System.Windows.Forms",
+        "Read": true,
+        "Write": true,
+        "Simple": false,
+        "Indexer": false,
+        "Name": "BindingContext",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "int",
+        "Read": true,
+        "Write": false,
+        "Simple": true,
+        "Indexer": false,
+        "Name": "Bottom",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "System.Drawing.Rectangle, System.Drawing",
+        "Read": true,
+        "Write": true,
+        "Simple": false,
+        "Indexer": false,
+        "Name": "Bounds",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "bool",
+        "Read": true,
+        "Write": false,
+        "Simple": true,
+        "Indexer": false,
+        "Name": "CanFocus",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "bool",
+        "Read": true,
+        "Write": false,
+        "Simple": true,
+        "Indexer": false,
+        "Name": "CanSelect",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "bool",
+        "Read": true,
+        "Write": true,
+        "Simple": true,
+        "Indexer": false,
+        "Name": "Capture",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "bool",
+        "Read": true,
+        "Write": true,
+        "Simple": true,
+        "Indexer": false,
+        "Name": "CausesValidation",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "System.Drawing.Rectangle, System.Drawing",
+        "Read": true,
+        "Write": false,
+        "Simple": false,
+        "Indexer": false,
+        "Name": "ClientRectangle",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "System.Drawing.Size, System.Drawing",
+        "Read": true,
+        "Write": true,
+        "Simple": false,
+        "Indexer": false,
+        "Name": "ClientSize",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "string",
+        "Read": true,
+        "Write": false,
+        "Simple": true,
+        "Indexer": false,
+        "Name": "CompanyName",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "bool",
+        "Read": true,
+        "Write": false,
+        "Simple": true,
+        "Indexer": false,
+        "Name": "ContainsFocus",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "System.Windows.Forms.ContextMenu, System.Windows.Forms",
+        "Read": true,
+        "Write": true,
+        "Simple": false,
+        "Indexer": false,
+        "Name": "ContextMenu",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "System.Windows.Forms.ContextMenuStrip, System.Windows.Forms",
+        "Read": true,
+        "Write": true,
+        "Simple": false,
+        "Indexer": false,
+        "Name": "ContextMenuStrip",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "System.Windows.Forms.Control+ControlCollection, System.Windows.Forms",
+        "Read": true,
+        "Write": false,
+        "Simple": false,
+        "Indexer": false,
+        "Name": "Controls",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "bool",
+        "Read": true,
+        "Write": false,
+        "Simple": true,
+        "Indexer": false,
+        "Name": "Created",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "System.Windows.Forms.Cursor, System.Windows.Forms",
+        "Read": true,
+        "Write": true,
+        "Simple": false,
+        "Indexer": false,
+        "Name": "Cursor",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "System.Windows.Forms.ControlBindingsCollection, System.Windows.Forms",
+        "Read": true,
+        "Write": false,
+        "Simple": false,
+        "Indexer": false,
+        "Name": "DataBindings",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "System.Drawing.Rectangle, System.Drawing",
+        "Read": true,
+        "Write": false,
+        "Simple": false,
+        "Indexer": false,
+        "Name": "DisplayRectangle",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "bool",
+        "Read": true,
+        "Write": false,
+        "Simple": true,
+        "Indexer": false,
+        "Name": "IsDisposed",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "bool",
+        "Read": true,
+        "Write": false,
+        "Simple": true,
+        "Indexer": false,
+        "Name": "Disposing",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "System.Windows.Forms.DockStyle, System.Windows.Forms",
+        "Read": true,
+        "Write": true,
+        "Simple": true,
+        "Indexer": false,
+        "Name": "Dock",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "bool",
+        "Read": true,
+        "Write": true,
+        "Simple": true,
+        "Indexer": false,
+        "Name": "Enabled",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "bool",
+        "Read": true,
+        "Write": false,
+        "Simple": true,
+        "Indexer": false,
+        "Name": "Focused",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "System.Drawing.Font, System.Drawing",
+        "Read": true,
+        "Write": true,
+        "Simple": false,
+        "Indexer": false,
+        "Name": "Font",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "System.IntPtr",
+        "Read": true,
+        "Write": false,
+        "Simple": true,
+        "Indexer": false,
+        "Name": "Handle",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "bool",
+        "Read": true,
+        "Write": false,
+        "Simple": true,
+        "Indexer": false,
+        "Name": "HasChildren",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "int",
+        "Read": true,
+        "Write": true,
+        "Simple": true,
+        "Indexer": false,
+        "Name": "Height",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "bool",
+        "Read": true,
+        "Write": false,
+        "Simple": true,
+        "Indexer": false,
+        "Name": "IsHandleCreated",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "bool",
+        "Read": true,
+        "Write": false,
+        "Simple": true,
+        "Indexer": false,
+        "Name": "InvokeRequired",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "bool",
+        "Read": true,
+        "Write": true,
+        "Simple": true,
+        "Indexer": false,
+        "Name": "IsAccessible",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "bool",
+        "Read": true,
+        "Write": false,
+        "Simple": true,
+        "Indexer": false,
+        "Name": "IsMirrored",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "int",
+        "Read": true,
+        "Write": true,
+        "Simple": true,
+        "Indexer": false,
+        "Name": "Left",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "System.Drawing.Point, System.Drawing",
+        "Read": true,
+        "Write": true,
+        "Simple": false,
+        "Indexer": false,
+        "Name": "Location",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "System.Windows.Forms.Padding, System.Windows.Forms",
+        "Read": true,
+        "Write": true,
+        "Simple": false,
+        "Indexer": false,
+        "Name": "Margin",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "System.Drawing.Size, System.Drawing",
+        "Read": true,
+        "Write": true,
+        "Simple": false,
+        "Indexer": false,
+        "Name": "MaximumSize",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "System.Drawing.Size, System.Drawing",
+        "Read": true,
+        "Write": true,
+        "Simple": false,
+        "Indexer": false,
+        "Name": "MinimumSize",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "string",
+        "Read": true,
+        "Write": true,
+        "Simple": true,
+        "Indexer": false,
+        "Name": "Name",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "System.Windows.Forms.Control, System.Windows.Forms",
+        "Read": true,
+        "Write": true,
+        "Simple": false,
+        "Indexer": false,
+        "Name": "Parent",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "string",
+        "Read": true,
+        "Write": false,
+        "Simple": true,
+        "Indexer": false,
+        "Name": "ProductName",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "string",
+        "Read": true,
+        "Write": false,
+        "Simple": true,
+        "Indexer": false,
+        "Name": "ProductVersion",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "bool",
+        "Read": true,
+        "Write": false,
+        "Simple": true,
+        "Indexer": false,
+        "Name": "RecreatingHandle",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "System.Drawing.Region, System.Drawing",
+        "Read": true,
+        "Write": true,
+        "Simple": false,
+        "Indexer": false,
+        "Name": "Region",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "int",
+        "Read": true,
+        "Write": false,
+        "Simple": true,
+        "Indexer": false,
+        "Name": "Right",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "System.Windows.Forms.RightToLeft, System.Windows.Forms",
+        "Read": true,
+        "Write": true,
+        "Simple": true,
+        "Indexer": false,
+        "Name": "RightToLeft",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "System.Drawing.Size, System.Drawing",
+        "Read": true,
+        "Write": true,
+        "Simple": false,
+        "Indexer": false,
+        "Name": "Size",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "int",
+        "Read": true,
+        "Write": true,
+        "Simple": true,
+        "Indexer": false,
+        "Name": "TabIndex",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "bool",
+        "Read": true,
+        "Write": true,
+        "Simple": true,
+        "Indexer": false,
+        "Name": "TabStop",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "object",
+        "Read": true,
+        "Write": true,
+        "Simple": false,
+        "Indexer": false,
+        "Name": "Tag",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "int",
+        "Read": true,
+        "Write": true,
+        "Simple": true,
+        "Indexer": false,
+        "Name": "Top",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "System.Windows.Forms.Control, System.Windows.Forms",
+        "Read": true,
+        "Write": false,
+        "Simple": false,
+        "Indexer": false,
+        "Name": "TopLevelControl",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "bool",
+        "Read": true,
+        "Write": true,
+        "Simple": true,
+        "Indexer": false,
+        "Name": "UseWaitCursor",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "bool",
+        "Read": true,
+        "Write": true,
+        "Simple": true,
+        "Indexer": false,
+        "Name": "Visible",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "int",
+        "Read": true,
+        "Write": true,
+        "Simple": true,
+        "Indexer": false,
+        "Name": "Width",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "System.Windows.Forms.IWindowTarget, System.Windows.Forms",
+        "Read": true,
+        "Write": true,
+        "Simple": false,
+        "Indexer": false,
+        "Name": "WindowTarget",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "System.Drawing.Size, System.Drawing",
+        "Read": true,
+        "Write": false,
+        "Simple": false,
+        "Indexer": false,
+        "Name": "PreferredSize",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.PropertyPrototypeSlim, OpenSpan",
+        "Type": "System.Windows.Forms.ImeMode, System.Windows.Forms",
+        "Read": true,
+        "Write": true,
+        "Simple": true,
+        "Indexer": false,
+        "Name": "ImeMode",
+        "Tag": 0
+      }
+    ],
+    "Methods": [
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+        "ReturnType": "void",
+        "Params": [
+          {
+            "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+            "Name": "text",
+            "Index": 0,
+            "Type": "string",
+            "In": true,
+            "Out": false,
+            "Ref": false,
+            "Simple": true,
+            "Generic": false
+          }
+        ],
+        "SimpleReturn": true,
+        "Simple": true,
+        "Generic": false,
+        "Name": "Paste",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+        "ReturnType": "void",
+        "Params": [
+          {
+            "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+            "Name": "text",
+            "Index": 0,
+            "Type": "string",
+            "In": true,
+            "Out": false,
+            "Ref": false,
+            "Simple": true,
+            "Generic": false
+          }
+        ],
+        "SimpleReturn": true,
+        "Simple": true,
+        "Generic": false,
+        "Name": "AppendText",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+        "ReturnType": "void",
+        "Params": [],
+        "SimpleReturn": true,
+        "Simple": true,
+        "Generic": false,
+        "Name": "Clear",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+        "ReturnType": "void",
+        "Params": [],
+        "SimpleReturn": true,
+        "Simple": true,
+        "Generic": false,
+        "Name": "ClearUndo",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+        "ReturnType": "void",
+        "Params": [],
+        "SimpleReturn": true,
+        "Simple": true,
+        "Generic": false,
+        "Name": "Copy",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+        "ReturnType": "void",
+        "Params": [],
+        "SimpleReturn": true,
+        "Simple": true,
+        "Generic": false,
+        "Name": "Cut",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+        "ReturnType": "void",
+        "Params": [],
+        "SimpleReturn": true,
+        "Simple": true,
+        "Generic": false,
+        "Name": "Paste",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+        "ReturnType": "char",
+        "Params": [
+          {
+            "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+            "Name": "pt",
+            "Index": 0,
+            "Type": "System.Drawing.Point, System.Drawing",
+            "In": true,
+            "Out": false,
+            "Ref": false,
+            "Simple": false,
+            "Generic": false
+          }
+        ],
+        "SimpleReturn": true,
+        "Simple": false,
+        "Generic": false,
+        "Name": "GetCharFromPosition",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+        "ReturnType": "int",
+        "Params": [
+          {
+            "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+            "Name": "pt",
+            "Index": 0,
+            "Type": "System.Drawing.Point, System.Drawing",
+            "In": true,
+            "Out": false,
+            "Ref": false,
+            "Simple": false,
+            "Generic": false
+          }
+        ],
+        "SimpleReturn": true,
+        "Simple": false,
+        "Generic": false,
+        "Name": "GetCharIndexFromPosition",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+        "ReturnType": "int",
+        "Params": [
+          {
+            "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+            "Name": "index",
+            "Index": 0,
+            "Type": "int",
+            "In": true,
+            "Out": false,
+            "Ref": false,
+            "Simple": true,
+            "Generic": false
+          }
+        ],
+        "SimpleReturn": true,
+        "Simple": true,
+        "Generic": false,
+        "Name": "GetLineFromCharIndex",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+        "ReturnType": "System.Drawing.Point, System.Drawing",
+        "Params": [
+          {
+            "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+            "Name": "index",
+            "Index": 0,
+            "Type": "int",
+            "In": true,
+            "Out": false,
+            "Ref": false,
+            "Simple": true,
+            "Generic": false
+          }
+        ],
+        "SimpleReturn": false,
+        "Simple": false,
+        "Generic": false,
+        "Name": "GetPositionFromCharIndex",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+        "ReturnType": "int",
+        "Params": [
+          {
+            "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+            "Name": "lineNumber",
+            "Index": 0,
+            "Type": "int",
+            "In": true,
+            "Out": false,
+            "Ref": false,
+            "Simple": true,
+            "Generic": false
+          }
+        ],
+        "SimpleReturn": true,
+        "Simple": true,
+        "Generic": false,
+        "Name": "GetFirstCharIndexFromLine",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+        "ReturnType": "int",
+        "Params": [],
+        "SimpleReturn": true,
+        "Simple": true,
+        "Generic": false,
+        "Name": "GetFirstCharIndexOfCurrentLine",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+        "ReturnType": "void",
+        "Params": [],
+        "SimpleReturn": true,
+        "Simple": true,
+        "Generic": false,
+        "Name": "ScrollToCaret",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+        "ReturnType": "void",
+        "Params": [],
+        "SimpleReturn": true,
+        "Simple": true,
+        "Generic": false,
+        "Name": "DeselectAll",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+        "ReturnType": "void",
+        "Params": [
+          {
+            "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+            "Name": "start",
+            "Index": 0,
+            "Type": "int",
+            "In": true,
+            "Out": false,
+            "Ref": false,
+            "Simple": true,
+            "Generic": false
+          },
+          {
+            "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+            "Name": "length",
+            "Index": 1,
+            "Type": "int",
+            "In": true,
+            "Out": false,
+            "Ref": false,
+            "Simple": true,
+            "Generic": false
+          }
+        ],
+        "SimpleReturn": true,
+        "Simple": true,
+        "Generic": false,
+        "Name": "Select",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+        "ReturnType": "void",
+        "Params": [],
+        "SimpleReturn": true,
+        "Simple": true,
+        "Generic": false,
+        "Name": "SelectAll",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+        "ReturnType": "void",
+        "Params": [],
+        "SimpleReturn": true,
+        "Simple": true,
+        "Generic": false,
+        "Name": "Undo",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+        "ReturnType": "System.Drawing.Size, System.Drawing",
+        "Params": [
+          {
+            "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+            "Name": "proposedSize",
+            "Index": 0,
+            "Type": "System.Drawing.Size, System.Drawing",
+            "In": true,
+            "Out": false,
+            "Ref": false,
+            "Simple": false,
+            "Generic": false
+          }
+        ],
+        "SimpleReturn": false,
+        "Simple": false,
+        "Generic": false,
+        "Name": "GetPreferredSize",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+        "ReturnType": "System.IAsyncResult",
+        "Params": [
+          {
+            "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+            "Name": "method",
+            "Index": 0,
+            "Type": "System.Delegate",
+            "In": true,
+            "Out": false,
+            "Ref": false,
+            "Simple": false,
+            "Generic": false
+          }
+        ],
+        "SimpleReturn": false,
+        "Simple": false,
+        "Generic": false,
+        "Name": "BeginInvoke",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+        "ReturnType": "System.IAsyncResult",
+        "Params": [
+          {
+            "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+            "Name": "method",
+            "Index": 0,
+            "Type": "System.Delegate",
+            "In": true,
+            "Out": false,
+            "Ref": false,
+            "Simple": false,
+            "Generic": false
+          },
+          {
+            "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+            "Name": "args",
+            "Index": 1,
+            "Type": "object[]",
+            "In": true,
+            "Out": false,
+            "Ref": false,
+            "Simple": false,
+            "Generic": false
+          }
+        ],
+        "SimpleReturn": false,
+        "Simple": false,
+        "Generic": false,
+        "Name": "BeginInvoke",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+        "ReturnType": "void",
+        "Params": [],
+        "SimpleReturn": true,
+        "Simple": true,
+        "Generic": false,
+        "Name": "BringToFront",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+        "ReturnType": "bool",
+        "Params": [
+          {
+            "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+            "Name": "ctl",
+            "Index": 0,
+            "Type": "System.Windows.Forms.Control, System.Windows.Forms",
+            "In": true,
+            "Out": false,
+            "Ref": false,
+            "Simple": false,
+            "Generic": false
+          }
+        ],
+        "SimpleReturn": true,
+        "Simple": false,
+        "Generic": false,
+        "Name": "Contains",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+        "ReturnType": "System.Drawing.Graphics, System.Drawing",
+        "Params": [],
+        "SimpleReturn": false,
+        "Simple": false,
+        "Generic": false,
+        "Name": "CreateGraphics",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+        "ReturnType": "void",
+        "Params": [],
+        "SimpleReturn": true,
+        "Simple": true,
+        "Generic": false,
+        "Name": "CreateControl",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+        "ReturnType": "System.Windows.Forms.DragDropEffects, System.Windows.Forms",
+        "Params": [
+          {
+            "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+            "Name": "data",
+            "Index": 0,
+            "Type": "object",
+            "In": true,
+            "Out": false,
+            "Ref": false,
+            "Simple": false,
+            "Generic": false
+          },
+          {
+            "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+            "Name": "allowedEffects",
+            "Index": 1,
+            "Type": "System.Windows.Forms.DragDropEffects, System.Windows.Forms",
+            "In": true,
+            "Out": false,
+            "Ref": false,
+            "Simple": true,
+            "Generic": false
+          }
+        ],
+        "SimpleReturn": true,
+        "Simple": false,
+        "Generic": false,
+        "Name": "DoDragDrop",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+        "ReturnType": "void",
+        "Params": [
+          {
+            "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+            "Name": "bitmap",
+            "Index": 0,
+            "Type": "System.Drawing.Bitmap, System.Drawing",
+            "In": true,
+            "Out": false,
+            "Ref": false,
+            "Simple": false,
+            "Generic": false
+          },
+          {
+            "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+            "Name": "targetBounds",
+            "Index": 1,
+            "Type": "System.Drawing.Rectangle, System.Drawing",
+            "In": true,
+            "Out": false,
+            "Ref": false,
+            "Simple": false,
+            "Generic": false
+          }
+        ],
+        "SimpleReturn": true,
+        "Simple": false,
+        "Generic": false,
+        "Name": "DrawToBitmap",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+        "ReturnType": "object",
+        "Params": [
+          {
+            "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+            "Name": "asyncResult",
+            "Index": 0,
+            "Type": "System.IAsyncResult",
+            "In": true,
+            "Out": false,
+            "Ref": false,
+            "Simple": false,
+            "Generic": false
+          }
+        ],
+        "SimpleReturn": false,
+        "Simple": false,
+        "Generic": false,
+        "Name": "EndInvoke",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+        "ReturnType": "System.Windows.Forms.Form, System.Windows.Forms",
+        "Params": [],
+        "SimpleReturn": false,
+        "Simple": false,
+        "Generic": false,
+        "Name": "FindForm",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+        "ReturnType": "bool",
+        "Params": [],
+        "SimpleReturn": true,
+        "Simple": true,
+        "Generic": false,
+        "Name": "Focus",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+        "ReturnType": "System.Windows.Forms.Control, System.Windows.Forms",
+        "Params": [
+          {
+            "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+            "Name": "pt",
+            "Index": 0,
+            "Type": "System.Drawing.Point, System.Drawing",
+            "In": true,
+            "Out": false,
+            "Ref": false,
+            "Simple": false,
+            "Generic": false
+          },
+          {
+            "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+            "Name": "skipValue",
+            "Index": 1,
+            "Type": "System.Windows.Forms.GetChildAtPointSkip, System.Windows.Forms",
+            "In": true,
+            "Out": false,
+            "Ref": false,
+            "Simple": true,
+            "Generic": false
+          }
+        ],
+        "SimpleReturn": false,
+        "Simple": false,
+        "Generic": false,
+        "Name": "GetChildAtPoint",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+        "ReturnType": "System.Windows.Forms.Control, System.Windows.Forms",
+        "Params": [
+          {
+            "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+            "Name": "pt",
+            "Index": 0,
+            "Type": "System.Drawing.Point, System.Drawing",
+            "In": true,
+            "Out": false,
+            "Ref": false,
+            "Simple": false,
+            "Generic": false
+          }
+        ],
+        "SimpleReturn": false,
+        "Simple": false,
+        "Generic": false,
+        "Name": "GetChildAtPoint",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+        "ReturnType": "System.Windows.Forms.IContainerControl, System.Windows.Forms",
+        "Params": [],
+        "SimpleReturn": false,
+        "Simple": false,
+        "Generic": false,
+        "Name": "GetContainerControl",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+        "ReturnType": "System.Windows.Forms.Control, System.Windows.Forms",
+        "Params": [
+          {
+            "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+            "Name": "ctl",
+            "Index": 0,
+            "Type": "System.Windows.Forms.Control, System.Windows.Forms",
+            "In": true,
+            "Out": false,
+            "Ref": false,
+            "Simple": false,
+            "Generic": false
+          },
+          {
+            "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+            "Name": "forward",
+            "Index": 1,
+            "Type": "bool",
+            "In": true,
+            "Out": false,
+            "Ref": false,
+            "Simple": true,
+            "Generic": false
+          }
+        ],
+        "SimpleReturn": false,
+        "Simple": false,
+        "Generic": false,
+        "Name": "GetNextControl",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+        "ReturnType": "void",
+        "Params": [],
+        "SimpleReturn": true,
+        "Simple": true,
+        "Generic": false,
+        "Name": "Hide",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+        "ReturnType": "void",
+        "Params": [
+          {
+            "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+            "Name": "region",
+            "Index": 0,
+            "Type": "System.Drawing.Region, System.Drawing",
+            "In": true,
+            "Out": false,
+            "Ref": false,
+            "Simple": false,
+            "Generic": false
+          }
+        ],
+        "SimpleReturn": true,
+        "Simple": false,
+        "Generic": false,
+        "Name": "Invalidate",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+        "ReturnType": "void",
+        "Params": [
+          {
+            "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+            "Name": "region",
+            "Index": 0,
+            "Type": "System.Drawing.Region, System.Drawing",
+            "In": true,
+            "Out": false,
+            "Ref": false,
+            "Simple": false,
+            "Generic": false
+          },
+          {
+            "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+            "Name": "invalidateChildren",
+            "Index": 1,
+            "Type": "bool",
+            "In": true,
+            "Out": false,
+            "Ref": false,
+            "Simple": true,
+            "Generic": false
+          }
+        ],
+        "SimpleReturn": true,
+        "Simple": false,
+        "Generic": false,
+        "Name": "Invalidate",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+        "ReturnType": "void",
+        "Params": [],
+        "SimpleReturn": true,
+        "Simple": true,
+        "Generic": false,
+        "Name": "Invalidate",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+        "ReturnType": "void",
+        "Params": [
+          {
+            "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+            "Name": "invalidateChildren",
+            "Index": 0,
+            "Type": "bool",
+            "In": true,
+            "Out": false,
+            "Ref": false,
+            "Simple": true,
+            "Generic": false
+          }
+        ],
+        "SimpleReturn": true,
+        "Simple": true,
+        "Generic": false,
+        "Name": "Invalidate",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+        "ReturnType": "void",
+        "Params": [
+          {
+            "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+            "Name": "rc",
+            "Index": 0,
+            "Type": "System.Drawing.Rectangle, System.Drawing",
+            "In": true,
+            "Out": false,
+            "Ref": false,
+            "Simple": false,
+            "Generic": false
+          }
+        ],
+        "SimpleReturn": true,
+        "Simple": false,
+        "Generic": false,
+        "Name": "Invalidate",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+        "ReturnType": "void",
+        "Params": [
+          {
+            "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+            "Name": "rc",
+            "Index": 0,
+            "Type": "System.Drawing.Rectangle, System.Drawing",
+            "In": true,
+            "Out": false,
+            "Ref": false,
+            "Simple": false,
+            "Generic": false
+          },
+          {
+            "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+            "Name": "invalidateChildren",
+            "Index": 1,
+            "Type": "bool",
+            "In": true,
+            "Out": false,
+            "Ref": false,
+            "Simple": true,
+            "Generic": false
+          }
+        ],
+        "SimpleReturn": true,
+        "Simple": false,
+        "Generic": false,
+        "Name": "Invalidate",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+        "ReturnType": "object",
+        "Params": [
+          {
+            "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+            "Name": "method",
+            "Index": 0,
+            "Type": "System.Delegate",
+            "In": true,
+            "Out": false,
+            "Ref": false,
+            "Simple": false,
+            "Generic": false
+          }
+        ],
+        "SimpleReturn": false,
+        "Simple": false,
+        "Generic": false,
+        "Name": "Invoke",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+        "ReturnType": "object",
+        "Params": [
+          {
+            "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+            "Name": "method",
+            "Index": 0,
+            "Type": "System.Delegate",
+            "In": true,
+            "Out": false,
+            "Ref": false,
+            "Simple": false,
+            "Generic": false
+          },
+          {
+            "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+            "Name": "args",
+            "Index": 1,
+            "Type": "object[]",
+            "In": true,
+            "Out": false,
+            "Ref": false,
+            "Simple": false,
+            "Generic": false
+          }
+        ],
+        "SimpleReturn": false,
+        "Simple": false,
+        "Generic": false,
+        "Name": "Invoke",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+        "ReturnType": "void",
+        "Params": [],
+        "SimpleReturn": true,
+        "Simple": true,
+        "Generic": false,
+        "Name": "PerformLayout",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+        "ReturnType": "void",
+        "Params": [
+          {
+            "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+            "Name": "affectedControl",
+            "Index": 0,
+            "Type": "System.Windows.Forms.Control, System.Windows.Forms",
+            "In": true,
+            "Out": false,
+            "Ref": false,
+            "Simple": false,
+            "Generic": false
+          },
+          {
+            "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+            "Name": "affectedProperty",
+            "Index": 1,
+            "Type": "string",
+            "In": true,
+            "Out": false,
+            "Ref": false,
+            "Simple": true,
+            "Generic": false
+          }
+        ],
+        "SimpleReturn": true,
+        "Simple": false,
+        "Generic": false,
+        "Name": "PerformLayout",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+        "ReturnType": "System.Drawing.Point, System.Drawing",
+        "Params": [
+          {
+            "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+            "Name": "p",
+            "Index": 0,
+            "Type": "System.Drawing.Point, System.Drawing",
+            "In": true,
+            "Out": false,
+            "Ref": false,
+            "Simple": false,
+            "Generic": false
+          }
+        ],
+        "SimpleReturn": false,
+        "Simple": false,
+        "Generic": false,
+        "Name": "PointToClient",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+        "ReturnType": "System.Drawing.Point, System.Drawing",
+        "Params": [
+          {
+            "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+            "Name": "p",
+            "Index": 0,
+            "Type": "System.Drawing.Point, System.Drawing",
+            "In": true,
+            "Out": false,
+            "Ref": false,
+            "Simple": false,
+            "Generic": false
+          }
+        ],
+        "SimpleReturn": false,
+        "Simple": false,
+        "Generic": false,
+        "Name": "PointToScreen",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+        "ReturnType": "bool",
+        "Params": [
+          {
+            "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+            "Name": "msg",
+            "Index": 0,
+            "Type": "System.Windows.Forms.Message&, System.Windows.Forms",
+            "In": false,
+            "Out": false,
+            "Ref": true,
+            "Simple": false,
+            "Generic": false
+          }
+        ],
+        "SimpleReturn": true,
+        "Simple": false,
+        "Generic": false,
+        "Name": "PreProcessMessage",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+        "ReturnType": "System.Windows.Forms.PreProcessControlState, System.Windows.Forms",
+        "Params": [
+          {
+            "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+            "Name": "msg",
+            "Index": 0,
+            "Type": "System.Windows.Forms.Message&, System.Windows.Forms",
+            "In": false,
+            "Out": false,
+            "Ref": true,
+            "Simple": false,
+            "Generic": false
+          }
+        ],
+        "SimpleReturn": true,
+        "Simple": false,
+        "Generic": false,
+        "Name": "PreProcessControlMessage",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+        "ReturnType": "System.Drawing.Rectangle, System.Drawing",
+        "Params": [
+          {
+            "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+            "Name": "r",
+            "Index": 0,
+            "Type": "System.Drawing.Rectangle, System.Drawing",
+            "In": true,
+            "Out": false,
+            "Ref": false,
+            "Simple": false,
+            "Generic": false
+          }
+        ],
+        "SimpleReturn": false,
+        "Simple": false,
+        "Generic": false,
+        "Name": "RectangleToClient",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+        "ReturnType": "System.Drawing.Rectangle, System.Drawing",
+        "Params": [
+          {
+            "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+            "Name": "r",
+            "Index": 0,
+            "Type": "System.Drawing.Rectangle, System.Drawing",
+            "In": true,
+            "Out": false,
+            "Ref": false,
+            "Simple": false,
+            "Generic": false
+          }
+        ],
+        "SimpleReturn": false,
+        "Simple": false,
+        "Generic": false,
+        "Name": "RectangleToScreen",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+        "ReturnType": "void",
+        "Params": [],
+        "SimpleReturn": true,
+        "Simple": true,
+        "Generic": false,
+        "Name": "Refresh",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+        "ReturnType": "void",
+        "Params": [],
+        "SimpleReturn": true,
+        "Simple": true,
+        "Generic": false,
+        "Name": "ResetText",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+        "ReturnType": "void",
+        "Params": [],
+        "SimpleReturn": true,
+        "Simple": true,
+        "Generic": false,
+        "Name": "ResumeLayout",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+        "ReturnType": "void",
+        "Params": [
+          {
+            "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+            "Name": "performLayout",
+            "Index": 0,
+            "Type": "bool",
+            "In": true,
+            "Out": false,
+            "Ref": false,
+            "Simple": true,
+            "Generic": false
+          }
+        ],
+        "SimpleReturn": true,
+        "Simple": true,
+        "Generic": false,
+        "Name": "ResumeLayout",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+        "ReturnType": "void",
+        "Params": [
+          {
+            "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+            "Name": "factor",
+            "Index": 0,
+            "Type": "System.Drawing.SizeF, System.Drawing",
+            "In": true,
+            "Out": false,
+            "Ref": false,
+            "Simple": false,
+            "Generic": false
+          }
+        ],
+        "SimpleReturn": true,
+        "Simple": false,
+        "Generic": false,
+        "Name": "Scale",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+        "ReturnType": "void",
+        "Params": [],
+        "SimpleReturn": true,
+        "Simple": true,
+        "Generic": false,
+        "Name": "Select",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+        "ReturnType": "bool",
+        "Params": [
+          {
+            "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+            "Name": "ctl",
+            "Index": 0,
+            "Type": "System.Windows.Forms.Control, System.Windows.Forms",
+            "In": true,
+            "Out": false,
+            "Ref": false,
+            "Simple": false,
+            "Generic": false
+          },
+          {
+            "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+            "Name": "forward",
+            "Index": 1,
+            "Type": "bool",
+            "In": true,
+            "Out": false,
+            "Ref": false,
+            "Simple": true,
+            "Generic": false
+          },
+          {
+            "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+            "Name": "tabStopOnly",
+            "Index": 2,
+            "Type": "bool",
+            "In": true,
+            "Out": false,
+            "Ref": false,
+            "Simple": true,
+            "Generic": false
+          },
+          {
+            "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+            "Name": "nested",
+            "Index": 3,
+            "Type": "bool",
+            "In": true,
+            "Out": false,
+            "Ref": false,
+            "Simple": true,
+            "Generic": false
+          },
+          {
+            "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+            "Name": "wrap",
+            "Index": 4,
+            "Type": "bool",
+            "In": true,
+            "Out": false,
+            "Ref": false,
+            "Simple": true,
+            "Generic": false
+          }
+        ],
+        "SimpleReturn": true,
+        "Simple": false,
+        "Generic": false,
+        "Name": "SelectNextControl",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+        "ReturnType": "void",
+        "Params": [],
+        "SimpleReturn": true,
+        "Simple": true,
+        "Generic": false,
+        "Name": "SendToBack",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+        "ReturnType": "void",
+        "Params": [
+          {
+            "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+            "Name": "x",
+            "Index": 0,
+            "Type": "int",
+            "In": true,
+            "Out": false,
+            "Ref": false,
+            "Simple": true,
+            "Generic": false
+          },
+          {
+            "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+            "Name": "y",
+            "Index": 1,
+            "Type": "int",
+            "In": true,
+            "Out": false,
+            "Ref": false,
+            "Simple": true,
+            "Generic": false
+          },
+          {
+            "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+            "Name": "width",
+            "Index": 2,
+            "Type": "int",
+            "In": true,
+            "Out": false,
+            "Ref": false,
+            "Simple": true,
+            "Generic": false
+          },
+          {
+            "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+            "Name": "height",
+            "Index": 3,
+            "Type": "int",
+            "In": true,
+            "Out": false,
+            "Ref": false,
+            "Simple": true,
+            "Generic": false
+          }
+        ],
+        "SimpleReturn": true,
+        "Simple": true,
+        "Generic": false,
+        "Name": "SetBounds",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+        "ReturnType": "void",
+        "Params": [
+          {
+            "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+            "Name": "x",
+            "Index": 0,
+            "Type": "int",
+            "In": true,
+            "Out": false,
+            "Ref": false,
+            "Simple": true,
+            "Generic": false
+          },
+          {
+            "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+            "Name": "y",
+            "Index": 1,
+            "Type": "int",
+            "In": true,
+            "Out": false,
+            "Ref": false,
+            "Simple": true,
+            "Generic": false
+          },
+          {
+            "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+            "Name": "width",
+            "Index": 2,
+            "Type": "int",
+            "In": true,
+            "Out": false,
+            "Ref": false,
+            "Simple": true,
+            "Generic": false
+          },
+          {
+            "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+            "Name": "height",
+            "Index": 3,
+            "Type": "int",
+            "In": true,
+            "Out": false,
+            "Ref": false,
+            "Simple": true,
+            "Generic": false
+          },
+          {
+            "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+            "Name": "specified",
+            "Index": 4,
+            "Type": "System.Windows.Forms.BoundsSpecified, System.Windows.Forms",
+            "In": true,
+            "Out": false,
+            "Ref": false,
+            "Simple": true,
+            "Generic": false
+          }
+        ],
+        "SimpleReturn": true,
+        "Simple": true,
+        "Generic": false,
+        "Name": "SetBounds",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+        "ReturnType": "void",
+        "Params": [],
+        "SimpleReturn": true,
+        "Simple": true,
+        "Generic": false,
+        "Name": "Show",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+        "ReturnType": "void",
+        "Params": [],
+        "SimpleReturn": true,
+        "Simple": true,
+        "Generic": false,
+        "Name": "SuspendLayout",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+        "ReturnType": "void",
+        "Params": [],
+        "SimpleReturn": true,
+        "Simple": true,
+        "Generic": false,
+        "Name": "Update",
+        "Tag": 0
+      }
+    ],
+    "Events": [
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.EventHandler",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.EventArgs",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "TextAlignChanged",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.EventHandler",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.EventArgs",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "AcceptsTabChanged",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.EventHandler",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.EventArgs",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "AutoSizeChanged",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.EventHandler",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.EventArgs",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "BackgroundImageChanged",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.EventHandler",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.EventArgs",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "BackgroundImageLayoutChanged",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.EventHandler",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.EventArgs",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "BorderStyleChanged",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.EventHandler",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.EventArgs",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "Click",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.Windows.Forms.MouseEventHandler, System.Windows.Forms",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.Windows.Forms.MouseEventArgs, System.Windows.Forms",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "MouseClick",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.EventHandler",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.EventArgs",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "HideSelectionChanged",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.EventHandler",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.EventArgs",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "ModifiedChanged",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.EventHandler",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.EventArgs",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "MultilineChanged",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.EventHandler",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.EventArgs",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "PaddingChanged",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.EventHandler",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.EventArgs",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "ReadOnlyChanged",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.Windows.Forms.PaintEventHandler, System.Windows.Forms",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.Windows.Forms.PaintEventArgs, System.Windows.Forms",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "Paint",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.EventHandler",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.EventArgs",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "BackColorChanged",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.EventHandler",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.EventArgs",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "BindingContextChanged",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.EventHandler",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.EventArgs",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "CausesValidationChanged",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.EventHandler",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.EventArgs",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "ClientSizeChanged",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.EventHandler",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.EventArgs",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "ContextMenuChanged",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.EventHandler",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.EventArgs",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "ContextMenuStripChanged",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.EventHandler",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.EventArgs",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "CursorChanged",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.EventHandler",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.EventArgs",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "DockChanged",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.EventHandler",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.EventArgs",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "EnabledChanged",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.EventHandler",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.EventArgs",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "FontChanged",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.EventHandler",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.EventArgs",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "ForeColorChanged",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.EventHandler",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.EventArgs",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "LocationChanged",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.EventHandler",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.EventArgs",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "MarginChanged",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.EventHandler",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.EventArgs",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "RegionChanged",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.EventHandler",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.EventArgs",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "RightToLeftChanged",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.EventHandler",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.EventArgs",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "SizeChanged",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.EventHandler",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.EventArgs",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "TabIndexChanged",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.EventHandler",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.EventArgs",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "TabStopChanged",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.EventHandler",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.EventArgs",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "TextChanged",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.EventHandler",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.EventArgs",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "VisibleChanged",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.Windows.Forms.ControlEventHandler, System.Windows.Forms",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.Windows.Forms.ControlEventArgs, System.Windows.Forms",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "ControlAdded",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.Windows.Forms.ControlEventHandler, System.Windows.Forms",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.Windows.Forms.ControlEventArgs, System.Windows.Forms",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "ControlRemoved",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.Windows.Forms.DragEventHandler, System.Windows.Forms",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.Windows.Forms.DragEventArgs, System.Windows.Forms",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "DragDrop",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.Windows.Forms.DragEventHandler, System.Windows.Forms",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.Windows.Forms.DragEventArgs, System.Windows.Forms",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "DragEnter",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.Windows.Forms.DragEventHandler, System.Windows.Forms",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.Windows.Forms.DragEventArgs, System.Windows.Forms",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "DragOver",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.EventHandler",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.EventArgs",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "DragLeave",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.Windows.Forms.GiveFeedbackEventHandler, System.Windows.Forms",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.Windows.Forms.GiveFeedbackEventArgs, System.Windows.Forms",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "GiveFeedback",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.EventHandler",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.EventArgs",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "HandleCreated",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.EventHandler",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.EventArgs",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "HandleDestroyed",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.Windows.Forms.HelpEventHandler, System.Windows.Forms",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "hlpevent",
+              "Index": 1,
+              "Type": "System.Windows.Forms.HelpEventArgs, System.Windows.Forms",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "HelpRequested",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.Windows.Forms.InvalidateEventHandler, System.Windows.Forms",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.Windows.Forms.InvalidateEventArgs, System.Windows.Forms",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "Invalidated",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.Windows.Forms.QueryContinueDragEventHandler, System.Windows.Forms",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.Windows.Forms.QueryContinueDragEventArgs, System.Windows.Forms",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "QueryContinueDrag",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.Windows.Forms.QueryAccessibilityHelpEventHandler, System.Windows.Forms",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.Windows.Forms.QueryAccessibilityHelpEventArgs, System.Windows.Forms",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "QueryAccessibilityHelp",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.EventHandler",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.EventArgs",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "DoubleClick",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.EventHandler",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.EventArgs",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "Enter",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.EventHandler",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.EventArgs",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "GotFocus",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.Windows.Forms.KeyEventHandler, System.Windows.Forms",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.Windows.Forms.KeyEventArgs, System.Windows.Forms",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "KeyDown",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.Windows.Forms.KeyPressEventHandler, System.Windows.Forms",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.Windows.Forms.KeyPressEventArgs, System.Windows.Forms",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "KeyPress",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.Windows.Forms.KeyEventHandler, System.Windows.Forms",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.Windows.Forms.KeyEventArgs, System.Windows.Forms",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "KeyUp",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.Windows.Forms.LayoutEventHandler, System.Windows.Forms",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.Windows.Forms.LayoutEventArgs, System.Windows.Forms",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "Layout",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.EventHandler",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.EventArgs",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "Leave",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.EventHandler",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.EventArgs",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "LostFocus",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.Windows.Forms.MouseEventHandler, System.Windows.Forms",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.Windows.Forms.MouseEventArgs, System.Windows.Forms",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "MouseDoubleClick",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.EventHandler",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.EventArgs",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "MouseCaptureChanged",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.Windows.Forms.MouseEventHandler, System.Windows.Forms",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.Windows.Forms.MouseEventArgs, System.Windows.Forms",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "MouseDown",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.EventHandler",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.EventArgs",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "MouseEnter",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.EventHandler",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.EventArgs",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "MouseLeave",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.EventHandler",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.EventArgs",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "MouseHover",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.Windows.Forms.MouseEventHandler, System.Windows.Forms",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.Windows.Forms.MouseEventArgs, System.Windows.Forms",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "MouseMove",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.Windows.Forms.MouseEventHandler, System.Windows.Forms",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.Windows.Forms.MouseEventArgs, System.Windows.Forms",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "MouseUp",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.Windows.Forms.MouseEventHandler, System.Windows.Forms",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.Windows.Forms.MouseEventArgs, System.Windows.Forms",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "MouseWheel",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.EventHandler",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.EventArgs",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "Move",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.Windows.Forms.PreviewKeyDownEventHandler, System.Windows.Forms",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.Windows.Forms.PreviewKeyDownEventArgs, System.Windows.Forms",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "PreviewKeyDown",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.EventHandler",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.EventArgs",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "Resize",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.Windows.Forms.UICuesEventHandler, System.Windows.Forms",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.Windows.Forms.UICuesEventArgs, System.Windows.Forms",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "ChangeUICues",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.EventHandler",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.EventArgs",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "StyleChanged",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.EventHandler",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.EventArgs",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "SystemColorsChanged",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.ComponentModel.CancelEventHandler",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.ComponentModel.CancelEventArgs",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "Validating",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.EventHandler",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.EventArgs",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "Validated",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.EventHandler",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.EventArgs",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "ParentChanged",
+        "Tag": 0
+      },
+      {
+        "$type": "OpenSpan.CrossPlatform.Prototoypes.EventPrototypeSlim, OpenSpan",
+        "Type": "System.EventHandler",
+        "Handler": {
+          "$type": "OpenSpan.CrossPlatform.Prototoypes.MethodPrototypeSlim, OpenSpan",
+          "ReturnType": "void",
+          "Params": [
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "sender",
+              "Index": 0,
+              "Type": "object",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            },
+            {
+              "$type": "OpenSpan.CrossPlatform.Prototoypes.ParamPrototoypeSlim, OpenSpan",
+              "Name": "e",
+              "Index": 1,
+              "Type": "System.EventArgs",
+              "In": true,
+              "Out": false,
+              "Ref": false,
+              "Simple": false,
+              "Generic": false
+            }
+          ],
+          "SimpleReturn": true,
+          "Simple": false,
+          "Generic": false,
+          "Name": "Invoke",
+          "Tag": 0
+        },
+        "Name": "ImeModeChanged",
+        "Tag": 0
+      }
+    ]
+  }
+}
