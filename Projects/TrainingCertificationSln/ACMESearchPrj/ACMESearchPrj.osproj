@@ -134,4 +134,10 @@
       <Id>UniversalWebAdapter-8D8DE50B28552EF</Id>
     </Compile>
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="ACMESystem.res">
+      <DependentUpon>ACMESystem.os</DependentUpon>
+      <Deployment>DoNotDeploy</Deployment>
+    </Content>
+  </ItemGroup>
 </Project>

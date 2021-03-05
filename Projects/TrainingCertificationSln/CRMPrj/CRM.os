@@ -246,6 +246,162 @@
                     </Items>
                   </Content>
                 </OpenSpan.Adapters.Controls.ToolBar>
+                <OpenSpan.Adapters.Controls.MdiClient Name="MdiClient" Id="MdiClient-8D8DFF857E967E4">
+                  <DummyPropertyToDetectReplaceUndo Value="0" />
+                  <ExtensibleTypeName Value="System.Windows.Forms.MdiClient, System.Windows.Forms" />
+                  <ForwardObjectExplorerEvent Value="True" />
+                  <MatchingIndex Value="1" />
+                  <PegaId Value="0" />
+                  <TargetTypeString Value="OpenSpan.Adapters.Virtual.VirtualTargets.VirtualMdiClient, OpenSpan.Adapters.Virtual" />
+                  <XrayGuid Value="" />
+                  <Content Name="Controls">
+                    <Items>
+                      <OpenSpan.Adapters.Controls.MdiChild Name="CRMchild" Id="MdiChild-8D8DFF857CC9FA1">
+                        <DummyPropertyToDetectReplaceUndo Value="0" />
+                        <ExtensibleTypeName Value="CRM.CRMchild, CRM" />
+                        <ForwardObjectExplorerEvent Value="True" />
+                        <MatchingIndex Value="0" />
+                        <PegaId Value="0" />
+                        <TargetTypeString Value="OpenSpan.Adapters.Virtual.VirtualTargets.VirtualMdiChild, OpenSpan.Adapters.Virtual" />
+                        <XrayGuid Value="" />
+                        <Content Name="Controls">
+                          <Items>
+                            <OpenSpan.Adapters.Controls.Panel Name="pnlCustomerInfo" Id="Panel-8D8DFF857A609E1">
+                              <DummyPropertyToDetectReplaceUndo Value="0" />
+                              <ExtensibleTypeName Value="System.Windows.Forms.Panel, System.Windows.Forms" />
+                              <ForwardObjectExplorerEvent Value="True" />
+                              <MatchingIndex Value="0" />
+                              <PegaId Value="0" />
+                              <TargetTypeString Value="OpenSpan.Adapters.Virtual.VirtualTargets.VirtualScrollablePanel, OpenSpan.Adapters.Virtual" />
+                              <XrayGuid Value="" />
+                              <Content Name="Controls">
+                                <Items>
+                                  <OpenSpan.Adapters.Controls.Label Name="CRMlblAcctNum" Id="Label-8D8DFF8576B26AC">
+                                    <DummyPropertyToDetectReplaceUndo Value="0" />
+                                    <ExtensibleTypeName Value="System.Windows.Forms.Label, System.Windows.Forms" />
+                                    <ForwardObjectExplorerEvent Value="True" />
+                                    <MatchingIndex Value="1" />
+                                    <PegaId Value="0" />
+                                    <TargetTypeString Value="OpenSpan.Adapters.Virtual.VirtualTargets.VirtualLabel, OpenSpan.Adapters.Virtual" />
+                                    <XrayGuid Value="" />
+                                    <Content Name="MatchRules">
+                                      <Items>
+                                        <OpenSpan.Adapters.Virtual.VirtualMatchRules.VirtualControlNativeControlNameMatchRule Name="virtualControlNativeControlNameMa12" Id="VirtualControlNativeControlNameMatchRule-8D8DFF859056CAD">
+                                          <NativeControlName Value="Simple|True|(User Culture)|lblAcctNum" />
+                                        </OpenSpan.Adapters.Virtual.VirtualMatchRules.VirtualControlNativeControlNameMatchRule>
+                                      </Items>
+                                    </Content>
+                                  </OpenSpan.Adapters.Controls.Label>
+                                  <OpenSpan.Adapters.Controls.TextBox Name="CRMtxtName" Id="TextBox-8D8DFF86464F285">
+                                    <DummyPropertyToDetectReplaceUndo Value="0" />
+                                    <ExtensibleTypeName Value="System.Windows.Forms.TextBox, System.Windows.Forms" />
+                                    <ForwardObjectExplorerEvent Value="True" />
+                                    <MatchingIndex Value="7" />
+                                    <PegaId Value="0" />
+                                    <TargetTypeString Value="OpenSpan.Adapters.Virtual.VirtualTargets.VirtualTextBox, OpenSpan.Adapters.Virtual" />
+                                    <XrayGuid Value="" />
+                                    <Content Name="MatchRules">
+                                      <Items>
+                                        <OpenSpan.Adapters.Virtual.VirtualMatchRules.VirtualControlNativeControlNameMatchRule Name="virtualControlNativeControlNameMa13" Id="VirtualControlNativeControlNameMatchRule-8D8DFF8647A91C3">
+                                          <NativeControlName Value="Simple|True|(User Culture)|txtName" />
+                                        </OpenSpan.Adapters.Virtual.VirtualMatchRules.VirtualControlNativeControlNameMatchRule>
+                                      </Items>
+                                    </Content>
+                                  </OpenSpan.Adapters.Controls.TextBox>
+                                  <OpenSpan.Adapters.Controls.TextBox Name="CRMtxtZip" Id="TextBox-8D8DFF86B6D21D8">
+                                    <DummyPropertyToDetectReplaceUndo Value="0" />
+                                    <ExtensibleTypeName Value="System.Windows.Forms.TextBox, System.Windows.Forms" />
+                                    <ForwardObjectExplorerEvent Value="True" />
+                                    <MatchingIndex Value="6" />
+                                    <PegaId Value="0" />
+                                    <TargetTypeString Value="OpenSpan.Adapters.Virtual.VirtualTargets.VirtualTextBox, OpenSpan.Adapters.Virtual" />
+                                    <XrayGuid Value="" />
+                                    <Content Name="MatchRules">
+                                      <Items>
+                                        <OpenSpan.Adapters.Virtual.VirtualMatchRules.VirtualControlNativeControlNameMatchRule Name="virtualControlNativeControlNameMa14" Id="VirtualControlNativeControlNameMatchRule-8D8DFF86B798AAD">
+                                          <NativeControlName Value="Simple|True|(User Culture)|txtStreetAdd" />
+                                        </OpenSpan.Adapters.Virtual.VirtualMatchRules.VirtualControlNativeControlNameMatchRule>
+                                      </Items>
+                                    </Content>
+                                  </OpenSpan.Adapters.Controls.TextBox>
+                                  <OpenSpan.Adapters.Controls.TextBox Name="CRMtxtCity" Id="TextBox-8D8DFF86EE18636">
+                                    <DummyPropertyToDetectReplaceUndo Value="0" />
+                                    <ExtensibleTypeName Value="System.Windows.Forms.TextBox, System.Windows.Forms" />
+                                    <ForwardObjectExplorerEvent Value="True" />
+                                    <MatchingIndex Value="5" />
+                                    <PegaId Value="0" />
+                                    <TargetTypeString Value="OpenSpan.Adapters.Virtual.VirtualTargets.VirtualTextBox, OpenSpan.Adapters.Virtual" />
+                                    <XrayGuid Value="" />
+                                    <Content Name="MatchRules">
+                                      <Items>
+                                        <OpenSpan.Adapters.Virtual.VirtualMatchRules.VirtualControlNativeControlNameMatchRule Name="virtualControlNativeControlNameMa15" Id="VirtualControlNativeControlNameMatchRule-8D8DFF86EEBA797">
+                                          <NativeControlName Value="Simple|True|(User Culture)|txtCity" />
+                                        </OpenSpan.Adapters.Virtual.VirtualMatchRules.VirtualControlNativeControlNameMatchRule>
+                                      </Items>
+                                    </Content>
+                                  </OpenSpan.Adapters.Controls.TextBox>
+                                  <OpenSpan.Adapters.Controls.TextBox Name="CRMtxtState" Id="TextBox-8D8DFF8729B15EE">
+                                    <DummyPropertyToDetectReplaceUndo Value="0" />
+                                    <ExtensibleTypeName Value="System.Windows.Forms.TextBox, System.Windows.Forms" />
+                                    <ForwardObjectExplorerEvent Value="True" />
+                                    <MatchingIndex Value="4" />
+                                    <PegaId Value="0" />
+                                    <TargetTypeString Value="OpenSpan.Adapters.Virtual.VirtualTargets.VirtualTextBox, OpenSpan.Adapters.Virtual" />
+                                    <XrayGuid Value="" />
+                                    <Content Name="MatchRules">
+                                      <Items>
+                                        <OpenSpan.Adapters.Virtual.VirtualMatchRules.VirtualControlNativeControlNameMatchRule Name="virtualControlNativeControlNameMa16" Id="VirtualControlNativeControlNameMatchRule-8D8DFF872A78DEC">
+                                          <NativeControlName Value="Simple|True|(User Culture)|txtState" />
+                                        </OpenSpan.Adapters.Virtual.VirtualMatchRules.VirtualControlNativeControlNameMatchRule>
+                                      </Items>
+                                    </Content>
+                                  </OpenSpan.Adapters.Controls.TextBox>
+                                  <OpenSpan.Adapters.Controls.TextBox Name="txtZip" Id="TextBox-8D8DFF88A9F666C">
+                                    <DummyPropertyToDetectReplaceUndo Value="0" />
+                                    <ExtensibleTypeName Value="System.Windows.Forms.TextBox, System.Windows.Forms" />
+                                    <ForwardObjectExplorerEvent Value="True" />
+                                    <MatchingIndex Value="3" />
+                                    <PegaId Value="0" />
+                                    <TargetTypeString Value="OpenSpan.Adapters.Virtual.VirtualTargets.VirtualTextBox, OpenSpan.Adapters.Virtual" />
+                                    <XrayGuid Value="" />
+                                    <Content Name="MatchRules">
+                                      <Items>
+                                        <OpenSpan.Adapters.Virtual.VirtualMatchRules.VirtualControlNativeControlNameMatchRule Name="virtualControlNativeControlNameMa17" Id="VirtualControlNativeControlNameMatchRule-8D8DFF88AAACF7C">
+                                          <NativeControlName Value="Simple|True|(User Culture)|txtZip" />
+                                        </OpenSpan.Adapters.Virtual.VirtualMatchRules.VirtualControlNativeControlNameMatchRule>
+                                      </Items>
+                                    </Content>
+                                  </OpenSpan.Adapters.Controls.TextBox>
+                                </Items>
+                              </Content>
+                              <Content Name="MatchRules">
+                                <Items>
+                                  <OpenSpan.Adapters.Virtual.VirtualMatchRules.VirtualControlNativeControlNameMatchRule Name="virtualControlNativeControlNameMa11" Id="VirtualControlNativeControlNameMatchRule-8D8DFF858E09F34">
+                                    <NativeControlName Value="Simple|True|(User Culture)|pnlCustomerInfo" />
+                                  </OpenSpan.Adapters.Virtual.VirtualMatchRules.VirtualControlNativeControlNameMatchRule>
+                                </Items>
+                              </Content>
+                            </OpenSpan.Adapters.Controls.Panel>
+                          </Items>
+                        </Content>
+                        <Content Name="MatchRules">
+                          <Items>
+                            <OpenSpan.Adapters.Virtual.VirtualMatchRules.VirtualControlNativeControlNameMatchRule Name="virtualControlNativeControlNameMa10" Id="VirtualControlNativeControlNameMatchRule-8D8DFF858AE9E6E">
+                              <NativeControlName Value="Simple|True|(User Culture)|CRMchild" />
+                            </OpenSpan.Adapters.Virtual.VirtualMatchRules.VirtualControlNativeControlNameMatchRule>
+                          </Items>
+                        </Content>
+                      </OpenSpan.Adapters.Controls.MdiChild>
+                    </Items>
+                  </Content>
+                  <Content Name="MatchRules">
+                    <Items>
+                      <OpenSpan.Adapters.Virtual.VirtualMatchRules.VirtualControlVirtualClassNameMatchRule Name="virtualControlVirtualClassNameMatc1" Id="VirtualControlVirtualClassNameMatchRule-8D8DFF85882EB87">
+                        <VirtualClassName Value="Simple|True|(User Culture)|MdiClient" />
+                      </OpenSpan.Adapters.Virtual.VirtualMatchRules.VirtualControlVirtualClassNameMatchRule>
+                    </Items>
+                  </Content>
+                </OpenSpan.Adapters.Controls.MdiClient>
               </Items>
             </Content>
             <Content Name="MatchRules">
@@ -262,5 +418,11 @@
         </Items>
       </Content>
     </OpenSpan.Adapters.Windows.WindowsAdapter>
+    <OpenSpan.Adapters.Virtual.VirtualMatchRules.VirtualControlNativeControlNameMatchRule Name="virtualControlNativeControlNameMat9" Id="VirtualControlNativeControlNameMatchRule-8D8DFF858657048">
+      <NativeControlName Value="Simple|True|(User Culture)|" />
+    </OpenSpan.Adapters.Virtual.VirtualMatchRules.VirtualControlNativeControlNameMatchRule>
+    <OpenSpan.Adapters.Virtual.VirtualMatchRules.VirtualControlIdMatchRule Name="virtualControlIdMatchRule1" Id="VirtualControlIdMatchRule-8D8DFF85876D3DB">
+      <ControlId Value="Simple|True|(User Culture)|" />
+    </OpenSpan.Adapters.Virtual.VirtualMatchRules.VirtualControlIdMatchRule>
   </Component>
 </OpenSpanDesignDocument>
