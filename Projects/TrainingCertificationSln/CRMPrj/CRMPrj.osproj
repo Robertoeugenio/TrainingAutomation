@@ -176,6 +176,9 @@
     <Reference Include="System.Drawing">
       <Private>False</Private>
     </Reference>
+    <Reference Include="System.Messaging">
+      <Private>False</Private>
+    </Reference>
     <Reference Include="System.Windows.Forms">
       <Private>False</Private>
     </Reference>
@@ -197,6 +200,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Extensions\" />
+    <Folder Include="CRM_E_CRMfrmLogin_Created" />
     <Folder Include="Properties\" />
     <Folder Include="Public Automations" />
   </ItemGroup>
@@ -212,6 +216,10 @@
     <Compile Include="CRM.os">
       <SubType>Component</SubType>
       <Id>WindowsAdapter-8D8DFE68142AF1E</Id>
+    </Compile>
+    <Compile Include="CRM_E_CRMfrmLogin_Created\CRM_E_CRMfrmLogin_Created.os">
+      <SubType>Component</SubType>
+      <Id>Automator-8D8E30F1807D26C</Id>
     </Compile>
     <Compile Include="Extensions\TextBox1.cs" />
   </ItemGroup>
